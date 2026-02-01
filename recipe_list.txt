@@ -1,2 +1,1 @@
-economist_news.recipe
-economist_world_ahead.recipe
+The Economist
